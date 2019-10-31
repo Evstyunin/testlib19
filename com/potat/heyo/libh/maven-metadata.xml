@@ -3,11 +3,12 @@
   <groupId>com.potat.heyo</groupId>
   <artifactId>libh</artifactId>
   <versioning>
-    <release>1.0.3</release>
+    <release>1.0.4</release>
     <versions>
       <version>unspecified</version>
       <version>1.0.3</version>
+      <version>1.0.4</version>
     </versions>
-    <lastUpdated>20191031182422</lastUpdated>
+    <lastUpdated>20191031190159</lastUpdated>
   </versioning>
 </metadata>
